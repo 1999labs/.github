@@ -1,3 +1,5 @@
 <div align="center">
-  <img src="../logo1999.png" alt="TokenWorks" width="600">
+  <img src="../logo1999.png" alt="1999 Labs" width="600">
 </div>
+
+1999 Labs is an applied AI studio connecting people, ideas and intelligence in unexpected ways
